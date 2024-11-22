@@ -1,4 +1,6 @@
-resolusi menjakdi web development handal
+resolusi menjadi web development handal
 -menguasai html
 -menguasai css
 - paham dengan java script
+- pelajari pyhton
+- pelajari php
